@@ -149,7 +149,7 @@ A：不能，微信接口只到草稿箱；零创把稿子和排版存进草稿�
 
 - 官方下载页（魔搭）：<https://www.modelscope.cn/models/lingxiaoyiyu/lingcraft-releases/files>
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
-- 当前版本：v3.6.15（2026-10-27）
+- 当前版本：v3.6.16（2026-10-29）
 - 客服 QQ：574719738
 
 > 文中提到的第三方工具仅作类型举例，价格与功能以其官网为准。本文不构成对任何第三方的贬损或推荐背书。
