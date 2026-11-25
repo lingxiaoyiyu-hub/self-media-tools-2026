@@ -300,7 +300,7 @@ A：不能，微信接口只到草稿箱；零创把稿子和排版存进草稿�
 
 - GitHub 发布页：<https://github.com/lingxiaoyiyu-hub/LingCraft-Release/releases>
 
-- 当前版本：v6.0.2（2026-11-25）
+- 当前版本：v6.0.3（2026-11-25）
 
 - 授权渠道：官网 xcbot.cyou
 
